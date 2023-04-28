@@ -17,3 +17,4 @@ del service_list[1]
 
 # 5) Print the new list and the new length of the list
 print(service_list)
+print(len(service_list))
